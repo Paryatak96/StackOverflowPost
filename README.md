@@ -1,2 +1,2 @@
 # StackOverflowPost
-Program witch can add post like posts in a StackOverFlow website.
+Program writed in C# language witch can add post like posts in a StackOverFlow website.
