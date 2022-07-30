@@ -1,0 +1,7 @@
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\StackOverflow Post\StackOverflow Post\bin\Debug\StackOverflow Post.exe.config
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\StackOverflow Post\StackOverflow Post\bin\Debug\StackOverflow Post.exe
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\StackOverflow Post\StackOverflow Post\bin\Debug\StackOverflow Post.pdb
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\StackOverflow Post\StackOverflow Post\obj\Debug\StackOverflow Post.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\StackOverflow Post\StackOverflow Post\obj\Debug\StackOverflow Post.exe
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\StackOverflow Post\StackOverflow Post\obj\Debug\StackOverflow Post.pdb
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\StackOverflow Post\StackOverflow Post\obj\Debug\StackOverflow Post.csproj.AssemblyReference.cache
